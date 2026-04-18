@@ -62,6 +62,8 @@ Note: Open Required Ports In AWS Security Groups. For now we will open All trafi
    
 sudo su -
 
+#testining
+
 
 2) Disable swap & add kernel settings
 
